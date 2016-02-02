@@ -17,3 +17,8 @@ or
 ```sh
 $ ./bin/www
 ```
+### Designs
+Landing: http://imgur.com/4hWN4D9
+
+Dashboard: Coming Soon
+
